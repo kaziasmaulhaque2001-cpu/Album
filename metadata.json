@@ -1,0 +1,6 @@
+{
+  "name": "Wedding Photo Selection",
+  "description": "An elegant, high-performance wedding photo selection gallery and client management system for professional photographers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
